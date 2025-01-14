@@ -1,3 +1,9 @@
+<p align="center">
+    <img width="60px" src="https://github.com/user-attachments/assets/778b6db8-e04e-4548-ba2f-7198c93a8320" />
+</p>
+
+<hr />
+
 # C3_lang_training
 - 컴파일러
   - https://github.com/c3lang/c3c
