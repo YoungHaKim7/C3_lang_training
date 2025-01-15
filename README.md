@@ -20,6 +20,40 @@
 # 에디터 플러그인Plug-in (zed된다 굿)
 - https://github.com/c3lang/editor-plugins
 
+# VSCode Extensions
+- https://marketplace.visualstudio.com/items?itemName=c3.vscode-c3
+
+
+<hr />
+
+```gitignore
+
+# https://github.com/WithSecureLabs/C3/blob/master/.gitignore
+
+.DS_Store
+build/
+
+.vs/
+Bin/
+CreateBuild/
+Tmp/
+obj/
+.vscode
+*.ipch
+*.exe
+*.dll
+*.pdb
+*.db
+*.db-journal
+*.vcxproj.user
+*c3-web-api-log*
+PER_BUILD_DYNAMIC_SIGNATURE_SEED.hpp
+__pycache__
+Src/Common/C3_BUILD_VERSION_HASH_PART.hxx
+Builds/
+gen/
+*launchSettings.json
+```
 
 <hr />
 
