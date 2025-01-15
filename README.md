@@ -26,6 +26,8 @@
 
 <hr />
 
+# .gitignore
+
 ```gitignore
 
 # https://github.com/WithSecureLabs/C3/blob/master/.gitignore
@@ -57,7 +59,7 @@ gen/
 
 <hr />
 
-# macOS
+# macOS에서 오류난거 해결 힌트
 
 ```bash
 llvm
