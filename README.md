@@ -20,6 +20,9 @@
 # 에디터 플러그인Plug-in (zed된다 굿)
 - https://github.com/c3lang/editor-plugins
 
+- zed extension
+  - https://github.com/AineeJames/c3-zed
+
 # VSCode Extensions
 - https://marketplace.visualstudio.com/items?itemName=c3.vscode-c3
 
