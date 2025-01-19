@@ -1,0 +1,25 @@
+# https://github.com/WithSecureLabs/C3/blob/master/.gitignore
+
+.DS_Store
+build/
+
+.vs/
+Bin/
+CreateBuild/
+Tmp/
+obj/
+.vscode
+*.ipch
+*.exe
+*.dll
+*.pdb
+*.db
+*.db-journal
+*.vcxproj.user
+*c3-web-api-log*
+PER_BUILD_DYNAMIC_SIGNATURE_SEED.hpp
+__pycache__
+Src/Common/C3_BUILD_VERSION_HASH_PART.hxx
+Builds/
+gen/
+*launchSettings.json
