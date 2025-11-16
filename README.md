@@ -11,6 +11,9 @@
 - C3홈페이지
   - https://c3-lang.org/
 
+- 공식 문서
+  - https://c3-lang.org/getting-started/
+
 # LSP는 C언어로 만든듯
 - https://github.com/pherrymason/c3-lsp
 
