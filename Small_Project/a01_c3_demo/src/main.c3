@@ -59,6 +59,6 @@ fn int main(String[] args)
 	io::printfn("P02 - total=%d, v=(%d, %d), %d s -> %d ms",
 				total, r.x, r.y, (int)s, (int)ms);
 
-	io::printn("C3 Hello, World!");
+	io::printfn("C3 Hello, World!");
 	return 0;
 }
